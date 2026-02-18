@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?<img
   src="https://readme-typing-svg.herokuapp.com?<img
-  src="https://readme-typing-svg.herokuapp.com?<h1 align="center">Hi, I'm R. Devendhar Reddy 👋</h1>
+  src="https://readme-typing-svg.herokuapp.com?<h1 align="center">Hi, I'm R. Devendhar  👋</h1>
 <p align="center"><strong>Data Analytics • python Developer • AI&ml</strong></p>
 
 <p align="center">
